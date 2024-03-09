@@ -1,9 +1,3 @@
-[submodule "Quizz"]
-	path = Quizz
-	url = https://github.com/ashokudutha956/Quizz.git
-[submodule "quizzapptwo"]
-	path = quizzapptwo
-	url = https://github.com/ashokudutha956/quizzapptwo.git
 [submodule "Quizzprojectreact"]
-	path = Quizzprojectreact
-	url = https://github.com/ashokudutha956/Quizzprojectreact.git
+    path = Quizzprojectreact
+    url = https://github.com/ashokudutha956/Quizzprojectreact.git
