@@ -4,3 +4,6 @@
 [submodule "quizzapptwo"]
 	path = quizzapptwo
 	url = https://github.com/ashokudutha956/quizzapptwo.git
+[submodule "Quizzprojectreact"]
+	path = Quizzprojectreact
+	url = https://github.com/ashokudutha956/Quizzprojectreact.git
